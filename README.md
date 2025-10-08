@@ -1,0 +1,1 @@
+This project is creating a Discord bot that replies to messages in the server locally. I have learned how to utilize a Python package that utilizes the Discord API to create my own local Discord bot.
